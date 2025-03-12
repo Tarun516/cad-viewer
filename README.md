@@ -93,12 +93,6 @@ Now open **[http://localhost:5173](http://localhost:5173)** in your browser! �
 | Express     | Backend Framework           |
 | Three.js    | 3D Rendering Library        |
 
-## 📬 Contributing
-
-Feel free to fork, open issues, or submit pull requests. 🤝
-
-##
-
 ---
 
 Enjoy using **3D CAD Viewer**! 🎉🚀
