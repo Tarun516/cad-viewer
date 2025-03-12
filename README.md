@@ -97,7 +97,7 @@ Now open **[http://localhost:5173](http://localhost:5173)** in your browser! �
 3. **File Conversion**: Users can export models in different formats (STL <-> OBJ) using the backend conversion logic.
 4. **Customization**: Users can toggle **wireframe view**, **background color**, and **auto-rotation** for a better experience.
 
-## 📸 Screenshots (Coming Soon) 📷
+## 📸 Screenshots 📷
 ![alt text](image.png)
 
 ![alt text](image-2.png)
