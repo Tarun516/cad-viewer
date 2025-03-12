@@ -188,10 +188,10 @@ export default function ModelViewer({
       </div>
 
       {/* Full viewport height container for immersive model viewing */}
-      <div className="w-full h-screen rounded-lg overflow-hidden shadow-xl">
+      <div className="w-full h-screen flex items-center justify-center">
         <Canvas
           camera={{ position: [5, 5, 5], fov: 35 }}
-          style={{ width: "100%", height: "100%" }}
+          style={{ width: "80%", height: "80%" }}
         >
           <Scene
             modelUrl={modelUrl}
