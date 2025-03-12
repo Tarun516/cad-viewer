@@ -1,6 +1,6 @@
 # 🏗️ 3D CAD Viewer
 
-Welcome to **CAD VIEWER**! 🚀 This is a **3D CAD Viewer** that allows users to upload and view **STL and OBJ files** directly in their browser. Built using **React, TypeScript, and Three.js** on the frontend, and **Node.js with Express.js** on the backend. 🎨📐
+This is a **3D CAD Viewer** that allows users to upload and view **STL and OBJ files** directly in their browser. Built using **React, TypeScript, and Three.js** on the frontend, and **Node.js with Express.js** on the backend. 🎨📐
 
 ## 📂 Project Structure
 
